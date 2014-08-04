@@ -113,7 +113,7 @@ Requirement: Present 2 (group). Subject to rescheduling.
 ---
 
 ##Projects
-[Instructions](/vincentclee/csci4370-database_management/blob/master/INSTRUCTIONS.md)
+[Instructions](INSTRUCTIONS.md)
 
 **Must Extend the Code Given Below:**
 
