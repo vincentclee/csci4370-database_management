@@ -12,7 +12,7 @@ Kifer, Bernstein and Lewis, 2006.
 * [Database Systems: An Application-Oriented Approach, Introductory Version, 2/E,](http://www.pearsonhighered.com/educator/academic/product/0,3110,0321228383,00.html)  
 Kifer, Bernstein and Lewis, 2005.  
 [lower cost alternative for first course]  
-(first 12 chapters almost identical, but has less material on B+Trees)
+first 12 chapters almost identical, but has less material on B+Trees
 
 ---
 
