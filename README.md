@@ -160,4 +160,4 @@ Requirement: Present 2 (group). Subject to rescheduling.
 * Late Points - 10 points off per day late.
 * Make-Up Tests - written pre-approval or medical documentation required (no retakes).
 * [A Culture of Honesty](http://www.uga.edu/honesty) -- [Examples](http://www.uga.edu/honesty/ahpd/prohibited_conduct.html).
-* [Copyright Issues](http://www.ctl.uga.edu/teach_asst/copyright.htm) -- [Regents Guide to Understanding Copyright](http://www.usg.edu/legal/copyr
+* [Copyright Issues](http://www.ctl.uga.edu/teach_asst/copyright.htm) -- [Regents Guide to Understanding Copyright](http://www.usg.edu/legal/copyright).
