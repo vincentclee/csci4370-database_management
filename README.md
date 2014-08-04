@@ -113,7 +113,7 @@ Requirement: Present 2 (group). Subject to rescheduling.
 ---
 
 ##Projects
-[Instructions](http://cobweb.cs.uga.edu/%7Ejam/home/courses/csci4370/csx370_sum14.html)
+[Instructions](/vincentclee/csci4370-database_management/blob/master/INSTRUCTIONS.md)
 
 **Must Extend the Code Given Below:**
 
