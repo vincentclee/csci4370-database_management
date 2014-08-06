@@ -60,7 +60,7 @@ Chapters 1 - 6, 8 - 12.
 | 5% | Homework/Tool Talks | presentations |
 
 **Exam I:** closed notes and book; bring calculator; 1 page info sheet allowed.  
-Review Date: 6/25 
+Review Date: 6/25  
 Exam Date: 6/26  
 5 Questions:
 
