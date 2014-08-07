@@ -2,7 +2,7 @@
 
 ##TA Information
 
-* [Ugur Kursuncu](http://cobweb.cs.uga.edu/~kursuncu/http://cobweb.cs.uga.edu/~kursuncu/) kursuncu@uga.edu
+* [Ugur Kursuncu](http://cobweb.cs.uga.edu/~kursuncu/) kursuncu@uga.edu
 * [Reshmi De](http://cs.uga.edu/directory/reshmi-de) reshmide@uga.edu
 
 ##Group Organization
